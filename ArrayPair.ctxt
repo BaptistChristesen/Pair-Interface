@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrayPair
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayPair\ here.\n\n\ @author\ (your\ name)\n\ @version\ (today's\ date)\n
+comment1.params=first\ second
+comment1.target=ArrayPair(java.lang.Object,\ java.lang.Object)
+comment2.params=x
+comment2.target=void\ setFirst(java.lang.Object)
+comment3.params=x
+comment3.target=void\ setSecond(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getFirst()
+comment5.params=
+comment5.target=java.lang.Object\ getSecond()
+numComments=6
